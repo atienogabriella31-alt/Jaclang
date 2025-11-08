@@ -1,5 +1,3 @@
- """A Number Guessing Game"""
-
 import random;
 
 walker Shopping{
@@ -20,3 +18,4 @@ node turn {
     root spawn shoping_list(5);
     root spawn shoping_list(6);
 }
+
